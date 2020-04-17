@@ -1,0 +1,13 @@
+.title {
+   font-size: 30px;
+   margin: 0;
+   font-weight: 700;
+   color: $main-black;
+   text-transform: uppercase;
+   text-align: center;
+   &_left {
+      font-size: 36px;
+      text-align: left;
+      color: #ffffff;
+   }
+}
